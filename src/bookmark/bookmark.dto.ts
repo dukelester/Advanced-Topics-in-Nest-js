@@ -1,5 +1,5 @@
 
-export class Bookmark{
+export class BookmarkDto{
     id: number;
     title: string;
     url: string;
